@@ -1,0 +1,48 @@
+ACAQ_Visualizer:
+* a minimum R 3.4.0 or higher
+* Run as administrator (Windows) or sudo (Linux)
+
+System requirements for R:
+* a minimum of 1GB of RAM
+* a non-root user with sudo privileges. 
+
+---------
+*Windows*
+---------
+You can run ACAQ Visualizer by starting runACAQ_WINDOWS.bat.
+
+
+-------
+*Linux*
+-------
+1. Open a terminal window and set the directory in your terminal to the installer's folder path "Linux".
+
+2. If R (version 3.4.0 or higher) is already installed, skip this step; if it is not installed run the following commands:
+----------------------------------
+
+chmod +x All_installer.sh 
+
+./All_installer.sh 
+
+----------------------------------
+
+
+3. If R is already installed, run this:
+----------------------------------
+
+chmod +x 2_R_lib_install_linux.sh 
+
+./2_R_lib_install_linux.sh 
+
+----------------------------------
+
+
+4. Go back to "ACAQ Visualizer" folder and run runACAQ_LINUX.sh
+----------------------------------
+
+chmod +x runACAQ_LINUX.sh 
+
+./runACAQ_LINUX.sh 
+
+----------------------------------
+
