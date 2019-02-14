@@ -4,9 +4,12 @@ ACAQ: a Fiji and R toolkit targeted for automated confrontation assay quantifica
 Zoltan Cseresnyes (1,+), Naim Al-Zaben (1,2,+), Mohamed I. Abdelwahab Hassan (2,3,4), Ruman Gerst (1,2), Kerstin Voigt (3), Marc Thilo Figge (1,2,\*)
 
 (1)  Applied Systems Biology, Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute, Jena, Germany
+
 (2)  Faculty of Biological Sciences, Friedrich Schiller University Jena, Jena, Germany
-3.  Jena Microbial Resource Collection, Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute, Jena, Germany
-4.  Pests and Plant Protection Department, National Research Centre, Giza, Egypt (+) These authors contributed equally to this work.
+
+(3)  Jena Microbial Resource Collection, Leibniz Institute for Natural Product Research and Infection Biology – Hans Knöll Institute, Jena, Germany
+
+(4)  Pests and Plant Protection Department, National Research Centre, Giza, Egypt (+) These authors contributed equally to this work.
 
 (\*) Correspondence should be addressed to MTF: <thilo.figge@leibniz-hki.de>.
 
