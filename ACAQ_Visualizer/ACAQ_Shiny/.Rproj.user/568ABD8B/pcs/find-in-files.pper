@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "~/Dokumente/2018/Papers/ACAQ/Source code and packages/ACAQ_Visualizer/ACAQ_Shiny",
+        "query" : "shinyDirButton",
+        "regex" : false
+    }
+}

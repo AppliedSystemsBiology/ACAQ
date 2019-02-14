@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550065896319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "21D6C65A",
+    "lastKnownWriteTime" : 1550065973,
+    "last_content_update" : 1550065973647,
+    "path" : "~/Dokumente/2018/Papers/ACAQ/Source code and packages/ACAQ_Visualizer/ACAQ_Shiny/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "17,19",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
